@@ -3,8 +3,8 @@ Project: Implementing Network Segmentation and Inter-VLAN Routing
 📋 Project Overview
 This project addresses the security risks of a flat network topology where different departments share the same broadcast domain. By implementing Layer 2 network segmentation using VLANs, the Sales and HR departments are isolated to prevent unauthorized data access and limit the blast radius of potential network threats. Inter-VLAN routing is configured via a Router-on-a-Stick architecture to allow controlled, secure communication between the segments.
 🗺️ Network Topology
-[Insert P<img width="1366" height="768" alt="my soho" src="https://github.com/user-attachments/assets/a2829df0-eca0-43bb-b160-16568d062f43" />
-acket Tracer screenshot showing the Router, Switch, and PCs here]
+[<img width="1366" height="768" alt="my soho" src="https://github.com/user-attachments/assets/a2829df0-eca0-43bb-b160-16568d062f43" />
+]
 ⚙️ Configuration Deployment
 Switch Configuration:
 vlan 10
